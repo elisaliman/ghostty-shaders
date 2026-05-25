@@ -3,8 +3,7 @@
 Pixel-art **snow** and **stars** shaders for [Ghostty](https://ghostty.org/).
 Crisp, lightweight, and cozy — overlays the terminal without obscuring text.
 
-![demo](demo.gif)
-<!-- Replace demo.gif with your recording. A 10–20s loop works best. -->
+<video src="demo.mp4" autoplay loop muted playsinline width="900"></video>
 
 ## What's here
 

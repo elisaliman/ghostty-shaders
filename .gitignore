@@ -2,3 +2,4 @@
 *.swp
 *.mov
 *.mp4
+!demo.mp4
