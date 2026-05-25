@@ -3,7 +3,13 @@
 Pixel-art **snow** and **stars** shaders for [Ghostty](https://ghostty.org/).
 Crisp, lightweight, and cozy — overlays the terminal without obscuring text.
 
+**just-snow**
+
 <video src="https://github.com/user-attachments/assets/4901144e-e48a-4836-8b4a-80e3d6f46810" autoplay loop muted playsinline width="900"></video>
+
+**just-stars**
+
+<video src="https://github.com/user-attachments/assets/9cf93a8c-edee-473b-b625-6f1ca98dbe2d" autoplay loop muted playsinline width="900"></video>
 
 ## What's here
 
